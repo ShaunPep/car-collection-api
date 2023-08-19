@@ -11,4 +11,4 @@ To run the API server, run the following:
 
 ### `yarn start:dev`
 
-This will lauch the server on [[http://localhost:3333](http://localhost:3333).
+This will lauch the server on [http://localhost:3333](http://localhost:3333).
